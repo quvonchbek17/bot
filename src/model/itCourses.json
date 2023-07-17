@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "title": "Web Dizayn",
+        "price": "900 000",
+        "image": "webdesign.jpg",
+        "url": "https://www.facebook.com/najottalim/videos/yangi-formatdagi-grafik-dizayn-kurslari-uchun-qabul-davom-etmoqda/520673418681593/",
+        "callback_data": "webdesign"
+    },
+    {
+        "id": 1,
+        "title": "SMM",
+        "price": "900 000",
+        "image": "SMM.jpg",
+        "url": "https://www.google.com/search?q=najot+ta%27lim+smm+kurslari+haqida&biw=1536&bih=696&tbm=vid&sxsrf=AB5stBiElFa_-MBHp-H25trN39RfKEcIcA%3A1689405796589&ei=ZEmyZN7JI7WSxc8P8sGk-A4&ved=0ahUKEwjei4yDl5CAAxU1SfEDHfIgCe8Q4dUDCA0&uact=5&oq=najot+ta%27lim+smm+kurslari+haqida&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIiBuYWpvdCB0YSdsaW0gc21tIGt1cnNsYXJpIGhhcWlkYTIFECEYoAFIxjZQggJYyShwAHgAkAEAmAHfBKAB-BKqAQswLjQuMC4yLjAuMrgBA8gBAPgBAcICBBAhGBXCAgcQIRigARgKiAYB&sclient=gws-wiz-video#fpstate=ive&vld=cid:a813b889,vid:E8eaMcLpBUA",
+        "callback_data": "smm"
+    },
+    {
+        "id": 1,
+        "title": "Frontend",
+        "price": "900 000",
+        "image": "frontend.jpg",
+        "url": "https://www.youtube.com/watch?v=Ey3teO2b29I",
+        "callback_data": "frontend"
+    },
+    {
+        "id": 1,
+        "title": "Backend(Node.js)",
+        "price": "900 000",
+        "image": "backend.jpg",
+        "url": "https://www.facebook.com/najottalim/posts/773475569994967/",
+        "callback_data": "backend(node.js)"
+    },
+    {
+        "id": 1,
+        "title": "Full Stack (Frontend & Backend)",
+        "price": "900 000",
+        "image": "full-stack.jpg",
+        "url": "https://t.me/s/najottalim?before=978",
+        "callback_data": "full-stack"
+    },
+    {
+        "id": 2,
+        "title": "Python",
+        "price": "1200000",
+        "image": "frontend.jpg",
+        "url": "https://najottalim.uz"
+    }
+]
